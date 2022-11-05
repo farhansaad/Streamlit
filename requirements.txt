@@ -1,0 +1,8 @@
+beautifulsoup4==4.11.1
+chromedriver_binary==108.0.5359.22.0
+joblib==1.0.1
+pandas==1.2.4
+requests==2.25.1
+selenium==4.6.0
+streamlit==1.14.0
+~~romedriver_binary_auto==0.1.2
